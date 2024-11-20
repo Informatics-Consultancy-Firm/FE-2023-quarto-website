@@ -6,7 +6,7 @@ format:
     toc-depth: 4
 ---
 
-### Mission
+### Motivation
 
 *Malaria burden remains high in Sub-Saharan Africa despite two decades of intense intervention. Regular analysis and use of public health data will lead to more effective control through evidence-based decision making.*
 
